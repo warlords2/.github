@@ -1,47 +1,46 @@
 # Warlord
 
 <img align="right" width="100" height="100" src="https://github.com/warlords2/.github/assets/38070920/b43a92bb-15a8-40d2-8c63-9e4e58ab368a">
-Warlords é um jogo de estratégia em tempo real (RTS) ambientado entre os séculos IV e VII. Cada jogador assume o controle de uma pequena cidade e, sob sua liderança, busca o crescimento e a prosperidade.
-Prepare suas estratégias, desenvolva suas habilidades e prove seu valor em um mundo cheio de rivalidade e ambição. A batalha pela supremacia começa em Warlords!
+Warlords is a real-time strategy (RTS) game set between the 4th and 7th centuries. Each player takes control of a small city and, under their leadership, aims for growth and prosperity.
+Prepare your strategies, develop your skills, and prove your worth in a world full of rivalry and ambition. The battle for supremacy begins in Warlords!
 
-## Repositorios
+## Repositories
 
- + [workspace](https://github.com/warlords2/workspace) - Ambiente de execução(Use para desenvolvimento)
- + [common](https://github.com/warlords2/common) - Estruturas e utilitarios comuns entre as aplicações
- + [frontend](https://github.com/warlords2/frontend) - UI em Vue com o motor grafico do jogo e as estruturas do client
- + [backend](https://github.com/warlords2/backend) - API/WS em nodejs para acessar os dados
- + [game_machine](https://github.com/warlords2/game_machine) - Motor que move o jogo e carrega as IA dos npcs
- + [storage](https://github.com/warlords2/storage) - Estruturas e utilitarios para Salvar os dados
- + [audit](https://github.com/warlords2/audit) - Estruturas e utilitarios para os logs e Grafana
+ + [workspace](https://github.com/warlords2/workspace) - Execution environment (Use for development)
+ + [common](https://github.com/warlords2/common) -  Common structures and utilities across applications
+ + [frontend](https://github.com/warlords2/frontend) - Vue UI with game engine and client structures
+ + [backend](https://github.com/warlords2/backend) - Node.js API/WS for accessing data
+ + [game_machine](https://github.com/warlords2/game_machine) - Engine that drives the game and loads NPC AIs
+ + [storage](https://github.com/warlords2/storage) - Structures and utilities for data storage
+ + [audit](https://github.com/warlords2/audit) - Structures and utilities for logs and Grafana
 
-## Como contribuir?
+## How to contribute?
 
-Esta seção orienta você as possíveis maneiras de contribuir.
+This section guides you on possible ways to contribute.
 
-### Relatando bugs
+### Reporting bugs
 
-Os bugs são rastreados como issues no GitHub, crie um problema e
-forneça as seguintes informações:
+Bugs are tracked as issues on GitHub. Create an issue and provide 
+the following information:
 
-- Use um título claro e descritivo para identificar o problema.
-- Descreva as etapas exatas que reproduzem o problema com o máximo de detalhes possível.
+- Use a clear and descriptive title to identify the problem.
+- Describe the exact steps to reproduce the problem with as much detail as possible.
 
+### Suggesting improvements
 
-### Sugerindo melhorias
+Improvement suggestions are tracked as issues on GitHub. 
+Create your suggestion and provide the following information:
 
-As sugestões de melhorias são rastreadas como issues no
-GitHub, crie sua sugestão e forneça a informação a seguir:
+- Use a clear and descriptive title to identify the suggestion.
+- Describe the current behavior and explain what behavior you expected to see and why.
+- Explain why this enhancement would be useful to most users.
 
-- Use um título claro e descritivo para identificar a sugestão.
-- Descreva o comportamento atual e explique qual comportamento você esperava ver e por quê.
-- Explique porque esse aprimoramento seria útil para a maioria dos usuários.
+### Development
 
-### Desenvolvendo
+To start development, you'll need to follow a few steps:
 
-Para iniciar o desenvolvimento, você precisará seguir alguns passos:
-
-- Fork este repositório.
-- Faça um clone do repositório que você fez seu fork.
-- Crie uma branch a partir da branch `main`.
-- Adicione sua contribuição, faça o commit e push.
-- Abra um ``pull request``
+- Fork this repository.
+- Clone the repository you forked.
+- Create a branch from the ``main`` branch.
+- Add your contribution, commit, and push.
+- Open a ``pull request``.
