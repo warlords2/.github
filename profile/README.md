@@ -1,4 +1,4 @@
-__English__ | [Português](./README_pt_BR.md)
+__English__ | [Português](https://github.com/warlords2/.github/blob/main/profile/README_pt_BR.md)
 
 # Warlord
 
