@@ -1,3 +1,5 @@
+__English__ | [Português](./README_pt_BR.md)
+
 # Warlord
 
 <img align="right" width="100" height="100" src="https://github.com/warlords2/.github/assets/38070920/b43a92bb-15a8-40d2-8c63-9e4e58ab368a">
