@@ -1,6 +1,6 @@
 # Warlord
 
-<img align="right" width="100" height="100" src="../213134535345.png">
+<img align="right" width="100" height="100" src="https://github.com/warlords2/.github/assets/38070920/b43a92bb-15a8-40d2-8c63-9e4e58ab368a">
 Warlords é um jogo de estratégia em tempo real (RTS) ambientado entre os séculos IV e VII. Cada jogador assume o controle de uma pequena cidade e, sob sua liderança, busca o crescimento e a prosperidade.
 Prepare suas estratégias, desenvolva suas habilidades e prove seu valor em um mundo cheio de rivalidade e ambição. A batalha pela supremacia começa em Warlords!
 
