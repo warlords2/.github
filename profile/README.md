@@ -16,6 +16,8 @@ Prepare your strategies, develop your skills, and prove your worth in a world fu
  + [storage](https://github.com/warlords2/storage) - Structures and utilities for data storage
  + [audit](https://github.com/warlords2/audit) - Structures and utilities for logs and Grafana
 
+// @todo create wikipedia project get settings in server
+
 ## How to contribute?
 
 This section guides you on possible ways to contribute.
